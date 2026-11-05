@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-plaid-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-plaid",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-plaid-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/accounting-plaid.md",
+  "presentationPlan": "projects/accounting/nuxt/accounting-plaid.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
